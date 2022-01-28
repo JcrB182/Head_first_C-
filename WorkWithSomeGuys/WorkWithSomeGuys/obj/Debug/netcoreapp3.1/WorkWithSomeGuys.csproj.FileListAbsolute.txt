@@ -1,0 +1,14 @@
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.exe
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.deps.json
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.runtimeconfig.json
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.runtimeconfig.dev.json
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.dll
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\bin\Debug\netcoreapp3.1\WorkWithSomeGuys.pdb
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.csproj.AssemblyReference.cache
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.AssemblyInfoInputs.cache
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.AssemblyInfo.cs
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.csproj.CoreCompileInputs.cache
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.dll
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.pdb
+C:\Users\ogroe\source\repos\WorkWithSomeGuys\WorkWithSomeGuys\obj\Debug\netcoreapp3.1\WorkWithSomeGuys.genruntimeconfig.cache
